@@ -35,13 +35,17 @@
 }
 .inline-element{
     background-color: lightpink;
-    display:inline
+    display:inline;
 }
 .block-element{
     background-color: lightgreen;
-    display:block
+    display:block;
 }
 .inline-block-element{
     background-color: lightsalmon;
-    display:inline-block
+    display:inline-block;
+}
+.hidden-element{
+    background-color: lightgray;
+    display:none;
 }
