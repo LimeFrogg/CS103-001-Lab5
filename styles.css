@@ -37,3 +37,7 @@
     background-color: lightpink;
     display:inline
 }
+.block-element{
+    background-color: lightgreen;
+    display:block
+}
