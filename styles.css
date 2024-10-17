@@ -1,0 +1,18 @@
+.box{
+    background-color: lightgreen;
+    height:200px;
+    width:300px;
+}
+.responsive-box{
+    background-color: lightgrey;
+    width: 50%;
+    height: 50%;
+}
+.padded-text{
+    background-color: lightpink;
+    padding: 20px 20px 20px 20px;
+}
+.custom-padding{
+    background-color: lightgoldenrodyellow;
+    padding: 10px 20px 10px 20px;
+}
