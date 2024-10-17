@@ -49,3 +49,7 @@
     background-color: lightgray;
     display:none;
 }
+.visible-element{
+    background-color: lightgreen;
+    visibility: visible;
+}
