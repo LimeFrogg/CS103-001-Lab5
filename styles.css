@@ -53,3 +53,7 @@
     background-color: lightgreen;
     visibility: visible;
 }
+.invisible-element{
+    background-color: lightseagreen;
+    visibility: hidden;
+}
