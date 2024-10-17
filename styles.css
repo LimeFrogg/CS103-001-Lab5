@@ -33,3 +33,7 @@
    background-color: lightblue; 
     margin: 20px 40px 20px 40px;
 }
+.inline-element{
+    background-color: lightpink;
+    display:inline
+}
