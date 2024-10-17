@@ -20,3 +20,8 @@
     background-color: lightskyblue;
     border: solid 2px black;
 }
+.rounded-border{
+    background-color: lightslategray;
+    border: red 3px dotted;
+    border-radius: 15px;
+}
