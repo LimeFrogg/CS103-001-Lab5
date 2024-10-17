@@ -25,3 +25,7 @@
     border: red 3px dotted;
     border-radius: 15px;
 }
+.margin-text{
+    background-color: lightcyan;
+    margin: 30px 30px 30px 30px;
+}
