@@ -41,3 +41,7 @@
     background-color: lightgreen;
     display:block
 }
+.inline-block-element{
+    background-color: lightsalmon;
+    display:inline-block
+}
